@@ -2,4 +2,4 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 
 ---
 
-[Brayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmokovitz)]
+[Brayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmokovitz)
