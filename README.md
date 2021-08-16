@@ -1,10 +1,33 @@
-Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 years old. I am currenlty working on projects in HTML and CSS, Javascript, C#, Unity, and Unreal. Some of my other intrestet are soccer. I am a huge fan, I like most of the top teams, I currently don't have one favorite team. If you need help with anything you can contact me thorught discord Blizzy#3500 or any of my social medias @bsmokovitz
+Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 years old. I am currenlty working on projects in HTML and CSS, Javascript, C#, Unity, and Unreal.
 
-### Main languages
-HTML, CSS, JavaScript, Java and C#
+---
 
-### Main Fraim works
-React.js and Boot Strap
+**Current Project**:
+- Winston (discord.js bot - open source)
+- Helex Games Website (closed source)
+- Helex Studio Website (closed source)
+
+**Currently learning**:
+- C#
+- Java
+- Unreal game engine
+
+
+**Main Languages**:
+- C#
+- Java
+- JavaScript
+- HTML 
+- CSS
+
+**Main frameworks**:
+- React.js
+- MongoDB
+
+**Contacts**:
+- Twiter - bsmokovitz
+- Instagram - bsmokovitz
+- Discord - blizzy#3500
 
 ---
 ![Brayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmokovitz&show_icons=true&theme=react)
