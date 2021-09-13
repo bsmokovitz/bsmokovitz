@@ -11,7 +11,10 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 - C#
 - Java
 - Unreal game engine
-
+- React.js
+- MongoDB
+- JavaScript
+- HTML and CSS
 
 **Main Languages**:
 - C#
