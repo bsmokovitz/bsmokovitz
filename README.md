@@ -26,7 +26,7 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 **Contacts**:
 - Twiter - bsmokovitz
 - Instagram - bsmokovitz
-- Discord - blizzy#3500
+- Discord - Blizzy#3500
 
 ---
 ![Brayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmokovitz&show_icons=true&theme=react)
