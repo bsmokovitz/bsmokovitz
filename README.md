@@ -4,8 +4,6 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 
 **Current Project**:
 - Winston (discord.js bot - (open source)
-- Helex Games Website (closed source)
-- Helex Studio Website (closed source)
 - Custom Arrows (closed source)
 
 **Currently learning**:
