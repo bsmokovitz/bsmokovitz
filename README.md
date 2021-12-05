@@ -6,15 +6,14 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 - Winston (discord.js bot - (open source)
 - Helex Games Website (closed source)
 - Helex Studio Website (closed source)
+- Custom Arrows (closed source)
 
 **Currently learning**:
 - C#
 - Java
-- Unreal game engine
-- React.js
-- MongoDB
+- Unity Engion
+- Unreal Engion
 - JavaScript
-- HTML and CSSsd
 
 **Main Languages**:
 - C#
@@ -24,8 +23,7 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 - CSS
 
 **Main frameworks**:
-- React.js
-- MongoDB
+- 
 
 **Contacts**:
 - Twiter - bsmokovitz
