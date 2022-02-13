@@ -1,27 +1,26 @@
-Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 years old. I am currenlty working on projects in HTML and CSS, Javascript, C#, Unity, and Unreal.
+Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 years old. I am currenlty working on projects in Java, HTML, CSS and JavaScript.
 
 ---
 
 **Current Project**:
-- Winston (discord.js bot - (open source)
-- Custom Arrows (closed source)
+- Custom Arrows (closed source) - Minecraft Plugin
+- PlayTimeReborn (closed source) - Minecraft Plugin
+- ChartsX (closed source) - Minecraft Plugin
 
 **Currently learning**:
-- C#
 - Java
-- Unity Engion
-- Unreal Engion
+- C#
 - JavaScript
+- TypeScript
 
 **Main Languages**:
-- C#
 - Java
 - JavaScript
-- HTML 
+- HTML
 - CSS
 
 **Main frameworks**:
-- 
+- Mavin
 
 **Contacts**:
 - Twiter - bsmokovitz
