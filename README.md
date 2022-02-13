@@ -28,6 +28,8 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 - Discord - Blizzy#3500
 - Email: - brayden@bsmokovitz.com
 
+**Portfolio**:
+- bsmokovitz.com
 ---
 ![Brayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmokovitz&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsmokovitz&layout=compact&theme=react)
