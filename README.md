@@ -9,15 +9,10 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 
 **Currently learning**:
 - Java
-- C#
-- JavaScript
-- TypeScript
+- Python
 
 **Main Languages**:
 - Java
-- JavaScript
-- HTML
-- CSS
 
 **Main frameworks**:
 - Mavin
@@ -25,7 +20,7 @@ Hello my nam is Brayden Smokovitz. I have been learning code since I was 13 year
 **Contacts**:
 - Twiter - bsmokovitz
 - Instagram - bsmokovitz
-- Discord - Blizzy#3500
+- Discord - Blizzy#0009
 - Email: - brayden@bsmokovitz.com
 
 **Portfolio**:
